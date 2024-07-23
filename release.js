@@ -1,0 +1,3 @@
+function isReleased(){
+    return true;
+}
